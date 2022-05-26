@@ -1,0 +1,25 @@
+
+.category {
+    background: rgb(4, 88, 243);
+    height: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+    color:#fff;
+   
+}
+.category:hover{
+    background-color: rgb(203, 165, 238);
+    color:#fff;
+}
+
